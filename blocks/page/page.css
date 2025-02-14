@@ -6,8 +6,4 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin: 0;
-    background-image:url('/images/background.jpg');
-    background-color:linear-gradient(#E7E7E7, #1A1A1A);
-    background-size: 1440px 960px;
-    background-repeat: no-repeat;
 }  
