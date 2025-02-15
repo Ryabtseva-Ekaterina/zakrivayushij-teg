@@ -1,0 +1,10 @@
+.post {
+    width: 696px;
+    min-height: 959px;
+    margin: 100px auto 50px;
+    border: #000 2px solid;
+    background-color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}

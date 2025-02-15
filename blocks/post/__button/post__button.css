@@ -1,0 +1,8 @@
+.post__button {
+    border: #000 2px solid;
+    font-family: "PressStart2P";
+    font-size: 14px;
+    width: 130px;
+    height: 38px;
+    background: inherit;
+}

@@ -1,0 +1,7 @@
+.post__button-heart {
+    width: 27px;
+    height: 24px;
+    background-image: url('/images/heart.svg');
+    object-fit: cover;
+    border: none;
+}

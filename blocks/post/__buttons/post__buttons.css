@@ -1,0 +1,6 @@
+.post__buttons {
+    display: flex;
+    margin: 25px 25px 25px auto;
+    gap: 12px;
+    align-items: center;
+}

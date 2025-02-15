@@ -1,0 +1,5 @@
+.post__image {
+    width: 696px;
+    height: 696px;
+    object-fit: cover;
+}

@@ -1,0 +1,10 @@
+.post__label {
+    font-family: "PressStart2P";
+    font-size: 14px;
+    position: absolute;
+    top: 56px;
+    right: 25px;
+    opacity: 50%;
+    -webkit-text-stroke: 1px #fff;
+    mix-blend-mode:hard-light;
+}

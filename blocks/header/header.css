@@ -4,4 +4,11 @@
     width: 700px;
     height: 368px;
     z-index:0;
+    font-family: "PressStart2P";
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    border: #000 2px solid;
 }
