@@ -1,0 +1,5 @@
+.save-button__image {
+    width: 21px;
+    height: 21px;
+    object-fit: cover;
+}

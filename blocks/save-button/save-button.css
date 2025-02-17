@@ -1,0 +1,11 @@
+.save-button {
+    margin: 0 auto 103px;
+    width: 355px;
+    height: 55px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    border: 2px #000 solid;
+    background: inherit;
+}

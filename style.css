@@ -13,3 +13,6 @@
 @import url('/blocks/post/__buttons/post__buttons.css');
 @import url('/blocks/post/__button-heart/post__button-heart.css');
 @import url('/blocks/post/__button/post__button.css');
+@import url('/blocks/save-button/save-button.css');
+@import url('/blocks/save-button/__image/save-button__image.css');
+@import url('/blocks/save-button/__text/save-button__text.css');
